@@ -2,7 +2,6 @@
 
 | 項目 | 內容 |
 |------|------|
-| 確認號碼 | 15046392TW4 |
 | 租車公司 | Avis |
 | 取車 | 2026/6/13 22:00，Zurich Airport, Flughafen Parking 3 |
 | 還車 | 2026/6/23 22:00，Zurich Airport, Flughafen Parking 3 |
@@ -11,7 +10,7 @@
 | 付款 | 櫃檯付款 |
 | 里程 | 4,399 km included，超出 CHF 0.80/km |
 | 油箱政策 | Full to Full |
-| 訂單檔案 | [Your Avis Rental Confirmation.pdf](docs/orders/avis/Your%20Avis%20Rental%20Confirmation.pdf ':ignore') |
+| 訂單檔案 | 私下保存，取車時使用原始確認信核對 |
 
 ## 取車提醒
 

@@ -13,6 +13,8 @@
 | 文件 | 說明 |
 |------|------|
 | [Main Itinerary / 主行程](docs/瑞士旅遊規劃.md) | 目前主行程與每日安排 |
+| [Team 2 Flight Schedule / 第二組航班摘要](docs/team2-flight-schedule.md) | 已清除個資的公開航班摘要 |
+| [Team 2 Dubai Transit / 第二組杜拜轉機](docs/team2-dubai-transit-itinerary.md) | 已清除個資的杜拜轉機建議 |
 | [Splitwise 分帳群組](https://www.splitwise.com/join/u1v3uWuHKG9+11uayz?v=s) | 旅費分帳 |
 
 ---
@@ -33,7 +35,7 @@
 
 | 日期 | 租車公司 | 車款 | 狀態 | 訂單 |
 |------|----------|------|------|------|
-| 6/13 22:00 - 6/23 22:00 | Avis Zurich Airport | Luxury Van - Mercedes-Benz Vito or Similar | ✅ 已預訂，櫃檯付款 | [PDF](docs/orders/avis/Your%20Avis%20Rental%20Confirmation.pdf ':ignore') |
+| 6/13 22:00 - 6/23 22:00 | Avis Zurich Airport | Luxury Van - Mercedes-Benz Vito or Similar | ✅ 已預訂，櫃檯付款 | 私下保存 |
 
 ---
 

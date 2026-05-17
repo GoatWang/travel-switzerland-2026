@@ -1,5 +1,8 @@
 * [首頁](/)
 * [Main Itinerary / 主行程](docs/瑞士旅遊規劃.md)
+* **Team 2 / 第二組**
+  * [Flight Schedule / 航班摘要](docs/team2-flight-schedule.md)
+  * [Dubai Transit / 杜拜轉機](docs/team2-dubai-transit-itinerary.md)
 * [Splitwise 分帳群組](https://www.splitwise.com/join/u1v3uWuHKG9+11uayz?v=s)
 * **Deprecated Reports**
   * [住宿選項分析](docs/住宿選項分析.md)

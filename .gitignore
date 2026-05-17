@@ -4,6 +4,5 @@ prompts
 .env
 .claude/
 docs/orders/airtickets/
-docs/team2-dubai-transit-itinerary.md
-docs/team2-flight-schedule.md
 uploads/
+chat/
