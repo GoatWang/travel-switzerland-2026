@@ -20,13 +20,16 @@ Public summary for the Singapore to Zurich arrival route. Booking references, pa
 | Team | Route | Zurich arrival |
 | --- | --- | --- |
 | Team 1 | Taipei to Zurich via Hong Kong | 07:10 |
-| Team 2 | Singapore to Zurich via Dubai | 20:05 |
+| Team 2 | Singapore to Zurich via Dubai | 20:05 (EK085) |
+| Team 3 | Kuala Lumpur to Zurich via Dubai | 20:05 (EK085) |
+
+**Team 2 and Team 3 are on the SAME FLIGHT (EK085) from Dubai to Zurich!**
 
 Planned meeting flow:
 
-1. Team 2 arrives at Zurich Airport at 20:05.
+1. Team 2 & Team 3 arrive together at Zurich Airport at 20:05 on EK085.
 2. Meet Team 1 in the arrivals area or near the Avis counter.
-3. Pick up the rental car together at 22:00.
+3. All three teams pick up the rental car together at 22:00.
 4. Drive to Zleep Hotel Zurich-Kloten together.
 
 ## Notes
