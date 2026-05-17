@@ -3,6 +3,6 @@
 prompts
 .env
 .claude/
-docs/orders/airtickets/
+docs/orders/
 uploads/
 chat/
